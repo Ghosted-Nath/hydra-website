@@ -6,8 +6,8 @@ export default function GallerySection() {
     <section className="content-section" id="gallery">
       <SectionIntro
         kicker="Gallery"
-        title="Real Moments From The Workshop And Arena"
-        body="A visual snapshot of training sessions, competition energy, student builds, and the hands-on environment behind Hydrabotz."
+        title="Events & Gallery"
+        body="Highlights from our workshops, competitions, and training programs."
       />
 
       <div className="gallery-grid">

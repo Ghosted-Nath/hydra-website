@@ -4,10 +4,11 @@ export default function ContactSection() {
       <div className="contact-grid">
         <article className="surface-card contact-card sponsor-card">
           <div className="micro-label">Sponsor Slot</div>
-          <h2>Become Our Jersey Title Sponsors</h2>
+          <h2>Jersey Title Sponsors</h2>
           <p>
-            Partner with Hydrabotz and place your brand at the center of school outreach, robotics events,
-            workshops, and team visibility through our jersey sponsorship.
+            Partner with Hydrabotz as our Jersey Title Sponsor and place your brand at the forefront of
+            innovation and competition. Gain high-visibility exposure across robotics events, workshops,
+            school programs, and digital platforms while aligning with a driven, future-focused team.
           </p>
 
           <div className="jersey-visual">

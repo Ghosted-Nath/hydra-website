@@ -30,7 +30,7 @@ export default function ProgramsSection() {
       <SectionIntro
         kicker="Programs"
         title="Our Programs"
-        body="Specialized robotics learning tracks built for schools, aspiring competitors, and students ready to build serious engineering projects."
+        body="From beginner workshops to competitive robotics coaching, we offer comprehensive programs for every skill level."
       />
 
       <div className="program-grid">

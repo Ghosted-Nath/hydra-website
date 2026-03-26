@@ -70,13 +70,13 @@ export const achievements = [
 ];
 
 export const players = [
-  { name: "Aarnav", age: "-", nickname: "-", role: "-", speciality: "-", years: "-", asset: "/assets/aarnav.jpeg" },
-  { name: "Achyut", age: "-", nickname: "-", role: "-", speciality: "-", years: "-", asset: "/assets/achyut.jpeg" },
-  { name: "Anudeep", age: 24, nickname: "-", role: "-", speciality: "-", years: "-", asset: "/assets/anudeep.jpeg" },
-  { name: "Arjun", age: "-", nickname: "-", role: "-", speciality: "-", years: "-", asset: "/assets/arjun.jpeg" },
-  { name: "Chaitanya", age: 22, nickname: "-", role: "-", speciality: "-", years: "-", asset: "/assets/chaitanya.jpeg" },
-  { name: "Gowtham", age: "-", nickname: "-", role: "-", speciality: "-", years: "-", asset: "/assets/gowtham.jpeg" },
-  { name: "Naveen", age: "-", nickname: "-", role: "-", speciality: "-", years: "-", asset: "/assets/naveen.png" },
-  { name: "Prashanth", age: 21, nickname: "-", role: "-", speciality: "-", years: "-", asset: "/assets/prashanth.png" },
-  { name: "Venkat", age: 24, nickname: "-", role: "-", speciality: "-", years: "-", asset: "/assets/venkat.png" }
+  { name: "Arnav", age: 13, nickname: "-", role: "Technical Operator", speciality: "-", years: "-", asset: "/assets/aarnav.jpeg" },
+  { name: "Achyut", age: 13, nickname: "-", role: "Technical Operator", speciality: "-", years: "-", asset: "/assets/achyut.jpeg" },
+  { name: "Anudeep", age: 24, nickname: "-", role: "Technical Operator", speciality: "Soccer", years: "-", asset: "/assets/anudeep.jpeg" },
+  { name: "Arjun", age: 10, nickname: "-", role: "Technical Operator", speciality: "-", years: "-", asset: "/assets/arjun.jpeg" },
+  { name: "Chaitanya", age: 22, nickname: "-", role: "Backend Team", speciality: "-", years: "-", asset: "/assets/chaitanya.jpeg" },
+  { name: "Gowtham", age: 11, nickname: "-", role: "Technical Operator", speciality: "-", years: "-", asset: "/assets/gowtham.jpeg" },
+  { name: "Naveen", age: "-", nickname: "-", role: "Technical Operator", speciality: "-", years: "-", asset: "/assets/naveen.png" },
+  { name: "Prashanth", age: 21, nickname: "-", role: "Technical Operator", speciality: "Race/Drone", years: "-", asset: "/assets/prashanth.png" },
+  { name: "Venkat", age: 24, nickname: "-", role: "Backend Team", speciality: "-", years: "-", asset: "/assets/venkat.png" }
 ];

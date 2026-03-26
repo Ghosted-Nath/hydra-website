@@ -21,7 +21,7 @@ export default function Page() {
         <SectionIntro
           kicker="Achievements"
           title="Achievements That Prove The Work"
-          body="A growing record of wins, awards, and recognition that reflects consistent training, stronger engineering, and real competition impact."
+          body="Award-winning excellence in competitive robotics at the highest levels."
         />
         <AchievementsGrid />
       </section>
@@ -32,7 +32,7 @@ export default function Page() {
         <SectionIntro
           kicker="Team"
           title="Meet The Team Behind Hydrabotz"
-          body="A tighter player spotlight layout keeps the visuals sharper, reduces wasted space, and stays more comfortable on mobile screens."
+          body="Explore player profiles with detailed stats, roles, and performance insights."
         />
         <PlayerCarousel />
       </section>
